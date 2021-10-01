@@ -13,3 +13,4 @@ Intuitions:
 - [ ] deploy on netlify
 - [ ] better algorithm (TSP?)
 - [ ] modifyable rules: make the user choose the horizontal/vertical and diagonal distance
+- [ ] Colored animation for the solution 1->N
