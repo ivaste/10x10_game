@@ -14,3 +14,4 @@ Intuitions:
 - [ ] better algorithm (TSP?)
 - [ ] modifyable rules: make the user choose the horizontal/vertical and diagonal distance
 - [ ] Colored animation for the solution 1->N
+- [ ] python mip solver: https://developers.google.com/optimization/routing/tsp
