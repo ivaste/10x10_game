@@ -7,6 +7,10 @@ Intuitions:
 - Solve as the TSP
 - to avoid the coming back edge of the TSP: create a dummy point whose distances to every other points is 0. Therefore, the problem becomes an (n+1)-city symmetric TSP. After solving, just delete dummy point and then the minimum length Hamiltonian path is solved and we can get the TSP path without returning back the start point.
 
+## Usage
+- Install [OR-Tools](https://developers.google.com/optimization): python -m pip install --upgrade --user ortools
+- Import the required libraries: from ortools.linear_solver import pywraplp
+
 ## Todo
 - [ ] Readme
 - [ ] fancier solution matrix visualization
