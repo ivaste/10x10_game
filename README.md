@@ -2,6 +2,8 @@
 <p align="center">
 <img src="https://github.com/ivaste/10x10_game/blob/main/doc/images/image.png?raw=true" width="300" />
 </p>
+
+
 Intuitions:
 - Can be seen as a graph where each cell is a node
 - each cell is connected with only 8 specific cells in it's sorroundings (except those one in the borders that have less connections), the edge cost is 1.
